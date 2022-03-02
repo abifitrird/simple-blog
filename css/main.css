@@ -4,6 +4,7 @@ body {
 
 main {
   text-align: justify;
+  height: 500px;
 }
 
 .aside-content {
@@ -13,4 +14,13 @@ main {
   float: right;
   font-style: italic;
   background-color: lightblue;
+}
+
+.main-aside {
+  width: 20%;
+  padding: 0 15px;
+  margin-left: 15px;
+  border: 2px dotted;
+  float: right;
+  height: 100%;
 }
